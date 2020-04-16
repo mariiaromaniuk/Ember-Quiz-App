@@ -1,3 +1,3 @@
 # Ember Quiz App
 
-Simple General Knowledge (multiple choice questions) quiz application using Ember.js (in progress..)
+Simple quiz application (general knowledge - multiple choice questions) created with Ember.js (in progress..)
